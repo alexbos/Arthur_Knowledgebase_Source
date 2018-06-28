@@ -239,7 +239,7 @@ nano §§installation_folder§§/enigma/cogs/helpers/config.py
 {{< /variables_box_highlight >}}
 
 
-In that file, you can set the #log channel ID (right-click on the channel with developper mode enabled -> copy ID), the bot super-admin(s) ID(s) (right-click on the users with developper mode enabled -> copy ID), and the blacklisted users ID, if any.
+In that file, you can set the #log channel ID (right-click on the channel with developer mode enabled -> copy ID), guild ID (right-click the guild name with developer mode enabled -> copy ID), the bot super-admin(s) ID(s) (right-click on the users with developper mode enabled -> copy ID), and the blacklisted users ID, if any.
 
 ### Finally
 
